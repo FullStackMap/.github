@@ -24,5 +24,3 @@ Here're some of the project's best features:
 *   Self generated client api
 *   Full CI/CD
 *   And More ...
-
-<h2>🛠️ Installation Steps:</h2>
